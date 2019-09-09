@@ -18,3 +18,8 @@ Then  to get each path to animate its letter because you have to loop through ea
  Now add each path to your index.css file by using the :nth-child with the stroke-dasharray, stroke-dashoffset, animation with line-anim:(see below for more info) to animate the word
  Last but not less don't forget your keyframes:  https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes also I added an article I found on Medium for line-animation by Max Houston Oppenheimer if you need more clarification.
  https://dev.to/oppnheimer/you-too-can-animate-svg-line-animation-jgm
+  
+  FINISH PROJECT ON SURGE.SH
+  
+  http://clean-afterthought.surge.sh/
+  Thanks for checking this out!
